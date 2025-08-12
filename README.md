@@ -33,3 +33,15 @@ Keyframe Extraction/
 
 ## 📝 Description
 This repository contains the implementation of **TriPSS: A Tri-Modal Keyframe Extraction Framework**, designed to extract keyframes from videos using perceptual, structural, and semantic representations. 
+
+## 📚 Citation
+
+If you use this work, please cite our paper:
+
+ACM Reference Format:
+Mert Can Cakmak, Nitin Agarwal, and Diwash Poudel. 2025. TriPSS: A Tri-
+Modal Keyframe Extraction Framework Using Perceptual, Structural, and
+Semantic Representations. In Proceedings of the ACM MM 2025 Workshop
+on Multimedia Analytics with Multimodal Large Language Models (MA-LLM
+’25), October 27–28, 2025, Dublin, Ireland. ACM, New York, NY, USA, 6 pages.
+https://doi.org/10.1145/3746263.3757710
